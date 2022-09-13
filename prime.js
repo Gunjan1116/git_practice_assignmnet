@@ -6,7 +6,7 @@ for(let i=1;i<=n;i++){
 }
 }
 if(c==2){
-console.log("no");
+console.log("n is palindrome");
 }else{
-console.log("yes");
+console.log("n is not palindrome");
 }
